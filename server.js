@@ -32,8 +32,6 @@
 //*    - Mongoose method 이용 MongoDB 연계 ('employees' collection)
 //*
 //*    ④ controller/controllerEmployees.js 수정 
-//*
-//*    (29:56)
 //! ------------------------------------------------
 
 const dotenv = require('dotenv');

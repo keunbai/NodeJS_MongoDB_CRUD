@@ -1,5 +1,5 @@
 {
-  "name": "14tut-mongodb-schemas-data-models",
+  "name": "15tut-mongodb-async-crud-operations",
   "version": "1.0.0",
   "main": "server.js",
   "license": "MIT",
